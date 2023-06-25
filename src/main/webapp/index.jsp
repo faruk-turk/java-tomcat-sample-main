@@ -6,6 +6,6 @@
   <h3> You are doing good work ..... </h3>
   <h1> Latest revision </h1>  
   <h1> You are best </h1>
-  <h1> GREAT </h1>
+  <h1> GREAT... </h1>
 </body>
 </html>
